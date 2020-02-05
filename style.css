@@ -1,0 +1,16 @@
+table, th, td{
+	border: black 1px solid;
+}
+th{ 
+	background-color: grey 
+}
+tr:hover{ 
+	background-color: lightgrey 
+}
+table{
+	border-collapse: collapse;
+}
+.container{
+	width: 70%;
+	margin-left: 15%;			
+}
