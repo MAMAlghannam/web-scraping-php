@@ -2,7 +2,7 @@
 
 In this project you can compare all mutual funds in Tadawul (Saudi Stock Exchange), which it's not that simple in there website.
 
-> ``` **Note**: *When running this code it'll take several minutes to finsh loading, or more depending on your internet conntection or Tadawul website response* ```
+> **Note**: *When running this code it'll take several minutes to finsh loading, or more depending on your internet conntection or Tadawul website response*
 
 
 **To see how it looks:**
