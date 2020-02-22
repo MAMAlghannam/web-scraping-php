@@ -20,5 +20,5 @@ In this project you can compare all mutual funds in Tadawul (Saudi Stock Exchang
 1. ``` simple_html_dom.php ``` very easy and helpful php scraper, check their documentation:
   > [https://simplehtmldom.sourceforge.io](https://simplehtmldom.sourceforge.io/)
 
-2. ``` DataTables ``` a javascript library adds advance interaction to html tables, such as search, paging and limit for each pgae, check their manual
+2. ``` DataTables ``` a javascript library adds advance interaction to html tables, such as search, paging and limit for each page, check their manual
   > [https://datatables.net/manual/](https://datatables.net/manual)
